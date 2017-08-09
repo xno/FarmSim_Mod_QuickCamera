@@ -1,7 +1,23 @@
 [b]QuickCamera[/b]
 
+Mod for Farming Simulator 17
+
 
 [b][u]Changelog[/u][/b]
+1.2.0.29
+- Translations updated by contributers;
+-- Italian by Xno
+-- French by Anonymous
+
+1.2.0.28
+- Articulated vehicles steering rotation fix
+-- Affected vehicles; Liebherr L 538, New Holland T9, JCB TM320S/435S, Ponsse ScorpionKing/Buffalo, Sampo Rosenlew HR46X
+-- Currently only modifiable via console-command; modQuickCameraSteeringRotSpeed <new_rotation_value>
+-- User configuration-file saved to; /modsSettings/QuickCamera_Config.xml
+
+1.1.1.26
+- Fix for 'look forward 359-degree rotation', so it now does a 'look forward -1 rotation' instead.
+
 1.1.0.25
 - Added player on-foot quick-rotation actions; 45° left/right, 180° turn
 -- NOTE! Remember to set the action keys yourself, as they are default set to nothing.
